@@ -1,4 +1,22 @@
-# playground-macos
+<p align="center">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+</p>
+<p align="center"><h1 align="center">PERSONAL-MACOS-DESKTOP</h1></p>
+<p align="center">
+	<em><code>❯ REPLACE-ME</code></em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/lahcen-art/Personal-macos-desktop?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/lahcen-art/Personal-macos-desktop?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/lahcen-art/Personal-macos-desktop?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/lahcen-art/Personal-macos-desktop?style=default&color=0080ff" alt="repo-language-count">
+</p>
+<p align="center"><!-- default option, no dependency badges. -->
+</p>
+<p align="center">
+	<!-- default option, no dependency badges. -->
+</p>
+<br>
 
 # My macOS Portfolio
 
@@ -68,5 +86,10 @@ pnpm build
 &nbsp;
 
 ## License
+
+This project maintains the same license as the original playground-macos project.
+
+## Thank You
+Special thanks to Renovamen for creating such an innovative and well-structured project that serves as an excellent foundation for personal portfolios. The original creativity and technical implementation made this customization possible.
 
 [MIT](MIT)
