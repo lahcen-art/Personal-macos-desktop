@@ -2,31 +2,42 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hi, I’m Lahcen Azroual — a full-stack developer with a unique background in English literature and a deep passion for building intuitive, user-centered web applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and thrive in fast-paced environments where creativity meets functionality.
 
-I'm trying to find a balance between research and engineering.
+What sets me apart is my ability to code by vibe — translating ideas into interactive interfaces with instinct and flow. My literature background sharpened my communication, analysis, and attention to detail — skills I now use to craft thoughtful user experiences and readable, scalable code.
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
+I’m also exploring AI integration in web apps using APIs for language, vision, and personalization — and I’m committed to learning through real-world projects that make a meaningful impact, especially in Morocco’s digital future.
 
-I'm also learning web development and building machine learning software and systems.
+Currently, I’m focused on:
+
+🎯 Building full-stack projects with the MERN stack
+
+🎯 Developing fast front ends with React, Vite, and Zustand
+
+🎯 Integrating AI APIs for enhanced functionality
+
+🎯 Practicing vibe coding — fast, creative, and user-intuitive development
+
+🎯 Leveling up through real-world projects, challenges, and curiosity
+
+Rooted in language, empowered by logic, and driven by creativity, I’m passionate about building tools that are both intelligent and meaningful — especially with an eye on Morocco’s digital future.
+
+Let’s build something that feels as good as it works.
 
 
 ## Contact
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- Email: [azroual.lahcen.application@gmail.com](mailto:azroual.lahcen.application@gmail.com)
+- Github: [@lahcen-art](https://github.com/lahcen-art)
+- Linkedin: [lahcen azroual](https://www.linkedin.com/in/lahcen-azroual/)
 
 
 ## Résumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
+- Normal version: [English](https://drive.google.com/file/d/1FtXqEk06gekjghZwGfY4-RKvTao2_tXV/view?usp=sharing) /
 
-  中文版的更新很可能不及时
 
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+
+- Interesting version: [portfolio](https://portfolio.zxh.me)

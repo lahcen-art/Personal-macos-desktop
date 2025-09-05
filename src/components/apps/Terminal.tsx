@@ -84,7 +84,7 @@ const HowDare = ({ setRMRF }: { setRMRF: (value: boolean) => void }) => {
   );
 };
 
-export default class Terminal extends React.Component<{}, TerminalState> {
+export default class Terminal extends React.Component<object, TerminalState> {
   private history = [] as string[];
   private curHistory = 0;
   private curInputTimes = 0;
@@ -94,7 +94,7 @@ export default class Terminal extends React.Component<{}, TerminalState> {
     [key: string]: { (): void } | { (arg?: string): void };
   };
 
-  constructor(props: {}) {
+  constructor(props: object) {
     super(props);
     this.state = {
       content: [],
@@ -342,7 +342,7 @@ export default class Terminal extends React.Component<{}, TerminalState> {
       <div key={`terminal-input-row-${id}`} flex>
         <div className="w-max hstack space-x-1.5">
           <span text-yellow-200>
-            zou@macbook-pro <span text-green-300>{this.getCurDirName()}</span>
+            azroual@macbook-pro <span text-green-300>{this.getCurDirName()}</span>
           </span>
           <span text-red-400>{">"}</span>
         </div>

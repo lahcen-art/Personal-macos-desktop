@@ -1,5 +1,14 @@
 # playground-macos
 
+# My macOS Portfolio
+
+Based on [playground-macos](https://github.com/Renovamen/playground-macos) by [Renovamen](https://github.com/Renovamen).
+
+## Customizations
+- the Main logo
+- the resume and personal infos
+- the song played in the interface
+
 My portfolio website simulating macOS's GUI: https://portfolio.zxh.me
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).

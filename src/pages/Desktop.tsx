@@ -2,7 +2,6 @@ import React from "react";
 import { apps, wallpapers } from "~/configs";
 import { minMarginY } from "~/utils";
 import type { MacActions } from "~/types";
-
 interface DesktopState {
   showApps: {
     [key: string]: boolean;

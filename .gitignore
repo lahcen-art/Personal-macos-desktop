@@ -3,3 +3,68 @@
 .cache/
 node_modules/
 dist/
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+
+# Build outputs
+build/
+dist/
+out/
+.next/
+.nuxt/
+.output/
+.vite/
+*.tsbuildinfo
+
+# Cache
+.cache/
+.parcel-cache/
+.webpack/
+
+# Development
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Personal files
+notes/
+TODO.txt
+PERSONAL_NOTES.md
+drafts/
+
+# Large media files
+*.mov
+*.mp4
+*_large.*
+*.psd
+*.ai
+
+# Backup files
+*_backup.*
+*.backup
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
