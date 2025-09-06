@@ -68,3 +68,4 @@ drafts/
 *.tmp
 *.temp
 .temp/
+.vercel
